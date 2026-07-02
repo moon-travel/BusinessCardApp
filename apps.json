@@ -1,0 +1,19 @@
+{
+  "name": "BusinessCardApp",
+  "identifier": "com.moontravel.businesscardapp",
+  "apps": [
+    {
+      "name": "BusinessCardApp",
+      "bundleIdentifier": "com.moontravel.businesscardapp",
+      "developerName": "moon",
+      "iconURL": "https://raw.githubusercontent.com/moon-travel/BusinessCardApp/main/icon.png",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-07-02",
+          "downloadURL": "https://github.com/moon-travel/BusinessCardApp/releases/download/App/application.ipa"
+        }
+      ]
+    }
+  ]
+}
