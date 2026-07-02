@@ -4,7 +4,7 @@
   "apps": [
     {
       "name": "BusinessCardApp",
-      "bundleIdentifier": "com.moontravel.businesscardapp",
+      "bundleIdentifier": "com.moon.aprication",
       "developerName": "moon",
       "iconURL": "https://raw.githubusercontent.com/moon-travel/BusinessCardApp/main/icon.png",
       "versions": [
