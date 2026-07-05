@@ -1,17 +1,33 @@
 {
   "name": "BusinessCardApp",
   "identifier": "com.moontravel.businesscardapp",
+  "subtitle": "Business Card Application",
+  "description": "Business Card Application",
+  "iconURL": "https://raw.githubusercontent.com/moon-travel/BusinessCardApp/main/icon.png",
+  "website": "https://github.com/moon-travel/BusinessCardApp",
+  "patreonURL": "",
+  "tintColor": "#007AFF",
+  "featuredApps": [
+    "com.moon.aprication"
+  ],
   "apps": [
     {
       "name": "BusinessCardApp",
       "bundleIdentifier": "com.moon.aprication",
       "developerName": "moon",
+      "subtitle": "Business Card Application",
+      "localizedDescription": "Business Card Application",
       "iconURL": "https://raw.githubusercontent.com/moon-travel/BusinessCardApp/main/icon.png",
+      "tintColor": "#007AFF",
+      "category": "utilities",
+      "screenshots": [],
       "versions": [
         {
           "version": "1.0",
-          "date": "2026-07-02",
-          "downloadURL": "https://github.com/moon-travel/BusinessCardApp/releases/download/App/application.ipa"
+          "date": "2026-07-02T00:00:00Z",
+          "localizedDescription": "Initial release",
+          "downloadURL": "https://github.com/moon-travel/BusinessCardApp/releases/download/App/application.ipa",
+          "size": 0
         }
       ]
     }
