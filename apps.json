@@ -1,13 +1,13 @@
 {
   "$schema": "https://github.com/SideStore/sidestore-source-types/raw/main/schema.json",
   "name": "BusinessCardApp",
-  "identifier": "com.moontravel.businesscardapp",
+  "identifier": "com.moontravel.BusinessCardApp",
   "sourceURL": "https://moon-travel.github.io/BusinessCardApp/apps.json",
   "news": [],
   "apps": [
     {
       "name": "BusinessCardApp",
-      "bundleIdentifier": "com.moon.aprication",
+      "bundleIdentifier": "com.moon.BusinessCardApp",
       "developerName": "moon",
       "localizedDescription": "A simple business card application.",
       "iconURL": "https://raw.githubusercontent.com/moon-travel/BusinessCardApp/main/icon.png",
